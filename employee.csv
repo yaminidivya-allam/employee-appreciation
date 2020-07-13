@@ -1,0 +1,211 @@
+Name,feedback,type
+Surya,delivered on time,1
+Suresh,delivered late,0
+Sandeep,delivered quickly,1
+Harish,he was humble,1
+Rupesh,delivered quickly,1
+Suresh,faster response,1
+Sandeep,Left unanswered,0
+Surya,on time delivery,1
+Rajiv,worst delivery service,0
+Sateesh,best delivery system,1
+Sandeep,great food,1
+Kiran,excellent food,1
+Suresh,fast delivery,1
+Saitej,amazing delivery,1
+Harish,unbelievably fast,1
+Sateesh,perfect delivery,1
+Surya,fastest delivery,1
+Sandeep,good quality food,1
+Harish,worst delivery service,0
+Sai,quality service,1
+Nikil,on time delivery,1
+Gaurav,bad quality food,0
+Rupesh,worst service,0
+Kishore,not responding,0
+Surya,amazing food,1
+Shiva,late delivery,0
+Santosh,superfast delivery,1
+Saitej,food delivery is excellent,1
+Sridar,poor service,0
+Kiran,fast food delivery service,1
+Charan,worst delivery service,0
+Kishore,amazing delivery,1
+Rupesh,pathetic delivery,0
+Shiva,worst delivery service,0
+Harish,very poor service,0
+Bhaskar,worst customer service,0
+Sai,tasty food,1
+Nikil,worst food,0
+Bharat,amazing delivery,1
+Sridar,late delivery,0
+Charan,amazing quality,1
+Bhaskar,poor service,0
+Suresh,good delivery service,1
+Ravi,amazing food,1
+Rahul,poor service,0
+Sai,poor quality,0
+Nikil,worst food,0
+Rupesh,fastest delivery,1
+Bharat,poor quality,0
+Sridar,worst delivery service,0
+Santosh,poor quality,0
+Saitej,amazing quality,1
+Ravi,simply superb food,1
+kalyan,poor quality,0
+Charan,worst delivery service,0
+Rahul,tasty food,1
+Rajiv,late delivery,0
+Bharat,worst service,0
+Vijay,amazinf service,1
+Sanjay,amazing food,1
+Suresh,worst service,0
+Sridar,late delivery,0
+kalyan,worst delivery service,0
+Ravi,amazing quality,1
+Charan,poor service,0
+Saitej,poor quality,0
+Bharat,worst delivery service,0
+Suresh,poor delivery service,0
+Surya,fastest delivery,1
+Harish,on time delivery,1
+Santosh,amazing delivery,1
+Shiva,worst food,0
+Vamsi,worst delivery service,0
+Bharat,poor quality,0
+Surya,late delivery,0
+Sanjay,worst food,0
+Vijay,amazing delivery,1
+Varun,poor delivery service,0
+Vamsi,amazing food,1
+Liam,delivered late,0
+William,delivered quickly,1
+Noah,he was humble,1
+James,delivered quickly,1
+Oliver,faster response,1
+William,Left unanswered,0
+Sandeep,N timely delivery,0
+Liam,worst delivery service,0
+Oliver,best delivery system,1
+Benjamin,great food,1
+Noah,excellent food,1
+Benjamin,fast delivery,1
+William,amazing delivery,1
+Saitej,unbelievably fast,1
+James,perfect delivery,1
+Benjamin,fastest delivery,1
+Liam,quality food,1
+Noah,worst delivery service,0
+Shiva,quality service,1
+Sai,on time delivery,1
+Nikil,amazing food,1
+Gaurav,worst service,0
+Oliver,not responding,0
+Kishore,amazing food,1
+Liam,late delivery,0
+Shiva,superfast delivery,1
+Santosh,food delivery is excellent,1
+Saitej,poor service,0
+Sridar,fast food delivery service,1
+Benjamin,worst delivery service,0
+Charan,amazing delivery,1
+Kishore,pathetic delivery,0
+Oliver,worst delivery service,0
+Shiva,very poor service,0
+James,worst customer service,0
+Bhaskar,tasty food,1
+Sai,worst food,0
+Nikil,amazing delivery,1
+Bharat,late delivery,0
+Sridar,amazing quality,1
+Charan,poor service,0
+Bhaskar,good delivery service,1
+William,amazing food,1
+Ravi,poor service,0
+Rahul,poor quality,0
+Sai,worst food,0
+Nikil,fastest delivery,1
+Oliver,poor quality,0
+Bharat,worst delivery service,0
+Sridar,poor quality,0
+Santosh,amazing quality,1
+Saitej,simply superb food,1
+Ravi,poor quality,0
+Kalyan,worst delivery service,0
+Charan,tasty food,1
+Rahul,late delivery,0
+Oliver,worst service,0
+Bharat,amazinf service,1
+Lucas,amazing food,1
+Sanjay,worst service,0
+William,late delivery,0
+Sridar,worst delivery service,0
+Kalyan,amazing quality,1
+Ravi,poor service,0
+Charan,poor quality,0
+Saitej,worst delivery service,0
+Bharat,poor delivery service,0
+William,fastest delivery,1
+Liam,on time delivery,1
+James,amazing delivery,1
+Santosh,worst food,0
+Shiva,worst delivery service,0
+Vamsi,poor quality,0
+Bharat,late delivery,0
+Liam,worst food,0
+Sanjay,amazing delivery,1
+Lucas,poor delivery service,0
+Varun,amazing food,1
+Vamsi,worst food,0
+Liam,delivered late,0
+William,delivered quickly,1
+Noah,he was humble,1
+James,delivered quickly,1
+Oliver,faster response,1
+William,Left unanswered,0
+Sandeep,N timely delivery,0
+Liam,worst delivery service,0
+Oliver,best delivery system,1
+Benjamin,great food,1
+Noah,excellent food,1
+Benjamin,fast delivery,1
+William,amazing delivery,1
+Saitej,unbelievably fast,1
+James,perfect delivery,1
+Benjamin,fastest delivery,1
+Liam,quality food,1
+Noah,worst delivery service,0
+James,quality service,1
+Sai,on time delivery,1
+Nikil,amazing food,1
+Gaurav,worst service,0
+Oliver,not responding,0
+Kishore,amazing food,1
+Liam,late delivery,0
+Shiva,superfast delivery,1
+Santosh,food delivery is excellent,1
+Saitej,poor service,0
+Sridar,fast food delivery service,1
+Benjamin,worst delivery service,0
+Charan,amazing delivery,1
+Kishore,pathetic delivery,0
+Oliver,worst delivery service,0
+Shiva,very poor service,0
+James,worst customer service,0
+Bhaskar,tasty food,1
+Sai,worst food,0
+Nikil,amazing delivery,1
+Bharat,late delivery,0
+Sridar,amazing quality,1
+Saitej,poor service,0
+Oliver,poor quality,0
+Surya,amazing quality,1
+Benjamin,poor service,0
+James,poor quality,0
+Kishore,on time delivery,1
+Kiran,on time delivery,1
+Sai,pathetic delivery,0
+Charan,on time delivery,1
+Shiva,very poor service,0
+Santosh,worst food,0
+Ravi,delivered fast,1
